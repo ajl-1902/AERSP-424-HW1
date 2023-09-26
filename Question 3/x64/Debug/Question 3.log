@@ -1,0 +1,8 @@
+﻿  Q3_main.cpp
+C:\Users\Andrew\Documents\2023 Fall\AERSP 424\Homework 1\Question 3\Q3_main.cpp(8,1): error C2556: 'std::vector<double,std::allocator<double>> p_dot(double,double,double,double)': overloaded function differs only by return type from 'double p_dot(double,double,double,double)'
+C:\Users\Andrew\Documents\2023 Fall\AERSP 424\Homework 1\Question 3\euler.h(1,8): message : see declaration of 'p_dot'
+C:\Users\Andrew\Documents\2023 Fall\AERSP 424\Homework 1\Question 3\Q3_main.cpp(7,16): error C2371: 'p_dot': redefinition; different basic types
+C:\Users\Andrew\Documents\2023 Fall\AERSP 424\Homework 1\Question 3\euler.h(1,8): message : see declaration of 'p_dot'
+C:\Users\Andrew\Documents\2023 Fall\AERSP 424\Homework 1\Question 3\Q3_main.cpp(9,65): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  roll_rate_Kt.cpp
+  Generating Code...

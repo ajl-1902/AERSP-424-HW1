@@ -1,4 +1,5 @@
 #include <iostream>
+#include "euler.h"
 using namespace std;
 
 //Differential equation setup
@@ -11,18 +12,6 @@ double p_dot(double t, double p)
 	else delta = 1; //Accounting for variable aileron deflection throughout range
 
 	return (L_p * p + L_d * delta);
-}
-
-//Forward Euler algorithm
-void roll_rate(double t0, double t, double dt, double p)
-{
-	cout << "At t = " << t0 << " s, the roll rate is " << p << " rad/s." << endl;
-	while (t0 < t - dt)
-	{
-		p = p + dt * p_dot(t0, p);
-		t0 = t0 + dt;
-		cout << "At t = " << t0 << " s, the roll rate is " << p << " rad/s." << endl;
-	}
 }
 
 int main()
