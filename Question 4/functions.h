@@ -1,0 +1,1 @@
+double dot_product(vector<double> v1, vector<double> v2);
