@@ -127,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="dot_product.cpp" />
     <ClCompile Include="Q4_main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="dot_product.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

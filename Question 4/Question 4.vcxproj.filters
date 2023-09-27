@@ -18,5 +18,13 @@
     <ClCompile Include="Q4_main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="dot_product.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="dot_product.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
