@@ -131,7 +131,7 @@
     <ClCompile Include="roll_rate_Kt.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="euler.h" />
+    <ClInclude Include="euler_Kt.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

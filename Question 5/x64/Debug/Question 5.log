@@ -1,2 +1,5 @@
-﻿  sigmoid.cpp
+﻿  Q5_main.cpp
+  gradient_sigmoid.cpp
+  sigmoid.cpp
+  Generating Code...
   Question 5.vcxproj -> C:\Users\Andrew\Documents\2023 Fall\AERSP 424\Homework 1\Question 5\x64\Debug\Question 5.exe
