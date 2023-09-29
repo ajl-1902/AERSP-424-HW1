@@ -1,2 +1,9 @@
-﻿  Q7_main.cpp
-  Question 7.vcxproj -> C:\Users\Andrew\Documents\2023 Fall\AERSP 424\Homework 1\Question 7\x64\Debug\Question 7.exe
+﻿  dot_product.cpp
+  gradient_cost.cpp
+  gradient_sigmoid.cpp
+  gradient_weights.cpp
+  Q7_main.cpp
+  sigmoid.cpp
+  update_weights.cpp
+  Generating Code...
+  Question 7.vcxproj -> C:\Users\Andrew\Documents\2023 Fall\AERSP 424\AERSP-424-HW1\Question 7\x64\Debug\Question 7.exe
