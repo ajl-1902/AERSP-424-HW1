@@ -1,5 +1,5 @@
 #include <iostream>
-#include "weights.h"
+#include "training.h"
 using namespace std;
 
 double gradient_sigmoid(double sig)

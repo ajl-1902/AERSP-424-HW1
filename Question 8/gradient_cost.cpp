@@ -1,5 +1,5 @@
 #include <iostream>
-#include "weights.h"
+#include "training.h"
 using namespace std;
 
 double gradient_cost(double y, double y_predict)

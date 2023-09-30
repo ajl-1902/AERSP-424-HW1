@@ -1,2 +1,8 @@
-C:\Users\Andrew\Documents\2023 Fall\AERSP 424\Homework 1\Question 8\Q8_main.cpp;C:\Users\Andrew\Documents\2023 Fall\AERSP 424\Homework 1\Question 8\x64\Debug\Q8_main.obj
-C:\Users\Andrew\Documents\2023 Fall\AERSP 424\Homework 1\Question 8\train_classifier.cpp;C:\Users\Andrew\Documents\2023 Fall\AERSP 424\Homework 1\Question 8\x64\Debug\train_classifier.obj
+C:\Users\Andrew\Documents\AERSP 424\AERSP-424-HW1\Question 8\dot_product.cpp;C:\Users\Andrew\Documents\AERSP 424\AERSP-424-HW1\Question 8\x64\Debug\dot_product.obj
+C:\Users\Andrew\Documents\AERSP 424\AERSP-424-HW1\Question 8\gradient_cost.cpp;C:\Users\Andrew\Documents\AERSP 424\AERSP-424-HW1\Question 8\x64\Debug\gradient_cost.obj
+C:\Users\Andrew\Documents\AERSP 424\AERSP-424-HW1\Question 8\gradient_sigmoid.cpp;C:\Users\Andrew\Documents\AERSP 424\AERSP-424-HW1\Question 8\x64\Debug\gradient_sigmoid.obj
+C:\Users\Andrew\Documents\AERSP 424\AERSP-424-HW1\Question 8\gradient_weights.cpp;C:\Users\Andrew\Documents\AERSP 424\AERSP-424-HW1\Question 8\x64\Debug\gradient_weights.obj
+C:\Users\Andrew\Documents\AERSP 424\AERSP-424-HW1\Question 8\Q8_main.cpp;C:\Users\Andrew\Documents\AERSP 424\AERSP-424-HW1\Question 8\x64\Debug\Q8_main.obj
+C:\Users\Andrew\Documents\AERSP 424\AERSP-424-HW1\Question 8\sigmoid.cpp;C:\Users\Andrew\Documents\AERSP 424\AERSP-424-HW1\Question 8\x64\Debug\sigmoid.obj
+C:\Users\Andrew\Documents\AERSP 424\AERSP-424-HW1\Question 8\train_classifier.cpp;C:\Users\Andrew\Documents\AERSP 424\AERSP-424-HW1\Question 8\x64\Debug\train_classifier.obj
+C:\Users\Andrew\Documents\AERSP 424\AERSP-424-HW1\Question 8\update_weights.cpp;C:\Users\Andrew\Documents\AERSP 424\AERSP-424-HW1\Question 8\x64\Debug\update_weights.obj

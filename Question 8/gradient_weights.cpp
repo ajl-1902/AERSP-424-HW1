@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include "weights.h"
+#include "training.h"
 
 using namespace std;
 

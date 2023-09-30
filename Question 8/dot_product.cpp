@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include "weights.h"
+#include "training.h"
 using namespace std;
 
 double dot_product(vector<double> v1, vector<double> v2)

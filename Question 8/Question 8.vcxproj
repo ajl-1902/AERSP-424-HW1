@@ -127,8 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="dot_product.cpp" />
+    <ClCompile Include="gradient_cost.cpp" />
+    <ClCompile Include="gradient_sigmoid.cpp" />
+    <ClCompile Include="gradient_weights.cpp" />
     <ClCompile Include="Q8_main.cpp" />
+    <ClCompile Include="sigmoid.cpp" />
     <ClCompile Include="train_classifier.cpp" />
+    <ClCompile Include="update_weights.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="training.h" />
