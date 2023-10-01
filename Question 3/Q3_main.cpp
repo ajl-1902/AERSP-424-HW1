@@ -8,7 +8,7 @@ double p_dot(double t, double p, double K)
 {
 	double L_p = 0.5; double L_d = -0.25;
 
-	double delta = -K * p;
+	double delta = -K * p; //Both K and p will change with each iteration
 
 	return (L_p * p + L_d * delta);
 }

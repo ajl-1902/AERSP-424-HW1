@@ -3,15 +3,15 @@
 #include <string>
 #include <map>
 #include "training.h"
-
 using namespace std;
 
 int main()
 {
-	vector<double> w = { 0.0001, 0.0001, 0.0001 };
+    vector<double> w = { 0.0001, 0.0001, 0.0001 };
 	double alpha = 0.001;
     int iter = 1000;
 
+    //Aircraft name and characteristics setup - map used to better maintain association
     map<string, vector<double>> aircraft;
     aircraft.insert({ "M-346 Master",{124,31.89,20.945,1} });
     aircraft.insert({ "AT-402B",{74,51.08,9.170,0} });
@@ -30,4 +30,6 @@ int main()
         cout << w_trained[i] << " ";
     }
     cout << "]" << endl;
+
+    return 0;
 }

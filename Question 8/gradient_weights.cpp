@@ -6,6 +6,7 @@ using namespace std;
 
 vector<double> gradient_weights(double y, vector<double> w, vector<double> x, double alpha)
 {
+	//Required parameters calculated using previous functions
 	double z = dot_product(w, x);
 	double sigma = sigmoid(z);
 	double sigma_prime = gradient_sigmoid(sigma);

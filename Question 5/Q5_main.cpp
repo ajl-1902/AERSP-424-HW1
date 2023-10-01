@@ -10,4 +10,6 @@ int main()
 	double sigma_prime = gradient_sigmoid(sigma);
 
 	cout << "The sigmoid of z is " << sigma << " and the gradient is " << sigma_prime << endl;
+
+	return 0;
 }

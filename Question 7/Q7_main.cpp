@@ -1,7 +1,6 @@
 #include <iostream>
 #include <vector>
 #include "weights.h"
-
 using namespace std;
 
 int main()
@@ -14,6 +13,7 @@ int main()
 	vector<double> dw = gradient_weights(y, w, x, alpha);
 	vector<double> w_new = update_weights(w, dw, alpha);
 
+	//For loops required to output vector elements
 	cout << "dw = [ ";
 	for (int i = 0; i < dw.size(); i++)
 	{
@@ -27,4 +27,6 @@ int main()
 		cout << w_new[i] << " ";
 	}
 	cout << "] after the update." << endl;
+
+	return 0;
 }

@@ -9,4 +9,6 @@ int main()
 	double dC = gradient_cost(y, y_predict);
 
 	cout << "dC = " << dC << endl;
+
+	return 0;
 }

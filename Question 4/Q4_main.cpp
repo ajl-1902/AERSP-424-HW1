@@ -11,4 +11,6 @@ int main()
 	double z = dot_product(w, x);
 
 	cout << "The dot product of the two vectors is: " << z << endl;
+
+	return 0;
 }

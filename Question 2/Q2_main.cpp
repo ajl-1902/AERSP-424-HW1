@@ -7,7 +7,7 @@ double p_dot(double t, double p)
 {
 	double L_p = 0.5; double L_d = -0.25; int K = -3; double delta;
 
-	delta = -K * p;
+	delta = -K * p; //Delta is now a function of p - will update with every iteration
 
 	return (L_p * p + L_d * delta);
 }

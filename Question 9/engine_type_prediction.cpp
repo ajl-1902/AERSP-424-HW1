@@ -3,7 +3,6 @@
 #include <map>
 #include <string>
 #include "prediction.h"
-
 using namespace std;
 
 vector<string> engine_type_prediction(map<string, vector<double>> aircraft, vector<double> w)
